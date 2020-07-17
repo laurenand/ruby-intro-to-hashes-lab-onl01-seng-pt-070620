@@ -19,8 +19,8 @@ def monopoly_with_second_tier
 end
 require 'pry'
 def monopoly_with_third_tier
-	monopoly = {railroads: {pieces: 4,binding.pry names: {}}}
-
+	monopoly = {railroads: {pieces: 4, names: {}}}
+binding.pry
 end
 
 def monopoly_with_fourth_tier
